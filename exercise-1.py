@@ -1,7 +1,6 @@
 # Excercise 1 
 students = ['Elroy','Ivan', 'Shamique', 'Mark']
-print(students[-1])
-print(students[1])
+print(students[-1], students[1])
 
 # Excercise 2
 foods = ('Chinese', 'Peruvian', 'Brazilian','Greek')
